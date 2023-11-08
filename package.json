@@ -1,0 +1,14 @@
+{
+  "name": "client_a",
+  "version": "1.0.0",
+  "description": "A simple Node.js project",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
